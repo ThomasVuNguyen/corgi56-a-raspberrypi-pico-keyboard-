@@ -52,6 +52,8 @@ I used some wood screw in this build as they're cheap, with the small sizes bein
 5. Having fun with it.
 Now you have a perfectly working keyboard! Paint the "keycaps" any way you like. I used some old ink eraser for mine and loved the retro look.
 
+Also, one last note. Everytime you detach the Pico from a pc or a raspberry pi, remember to Eject it first!
+
 
 Tactile buttons: https://www.amazon.com/gp/product/B07CG7VTGD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 

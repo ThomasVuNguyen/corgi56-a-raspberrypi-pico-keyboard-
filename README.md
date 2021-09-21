@@ -54,15 +54,23 @@ Now you have a perfectly working keyboard! Paint the "keycaps" any way you like.
 
 
 Tactile buttons: https://www.amazon.com/gp/product/B07CG7VTGD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 Perfboards: https://www.amazon.com/gp/product/B07FFDFLZ3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 Raspberry pi Pico: https://www.amazon.com/seeed-studio-Raspberry-Microcontroller-Dual-core/dp/B08TQSDP28/ref=sr_1_3?dchild=1&keywords=pi+pico&qid=1632246937&sr=8-3
+
 Female & Male Header Pins: https://www.amazon.com/gp/product/B074HVBTZ4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 Jumper Cables: https://www.amazon.com/gp/product/B01EV70C78/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 (Trust me you'll need a lot of these)
 
 Wire stripper: https://www.harborfreight.com/7-inch-wire-stripper-with-cutter-98410.html?utm_source=google&utm_medium=cpc&utm_campaign=12169054043&campaignid=12169054043&utm_content=125548921388&adsetid=125548921388&product=98410&store=118&gclid=CjwKCAjwhaaKBhBcEiwA8acsHFiqnEebaYVHxMlRNEUID1Scg4zfMvF79rxtcFgwRT-DvUCO0ntiUxoCMTcQAvD_BwE
+
 Soldering station & Solder: https://www.amazon.com/gp/product/B087767KNW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 Fume extractor: https://www.amazon.com/gp/product/B07VWDN29F/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 Solder Pump (optional): https://www.amazon.com/gp/product/B0739LXQ6N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 Wood Screw: https://www.harborfreight.com/hardware/screws/500-piece-brass-plated-wood-screw-assortment-67678.html
 
 Reference (KMK firmware):

@@ -40,6 +40,8 @@ Lucky for you, I have done the harsh part of looking thru the documentation and 
 But if you still want to play around or come up with another custom layout, here is a summary.
 Some great people came up with the KMK firmware (Micropython) for the chipset of the Raspbery Pi Pico. Even though the documentation needs some work here and there, I would argue this is so much easier to work with than the OP firmware known as QMK for other chipset. The only problem I had was that I didn't have enough documentation to look at to get the layers working.
 
+All you have to do is to follow KMK instruction, and paste my main.py file onto the Pico. Remember to check make sure that main.py and boot.py are the only two python scripts on the main directory of the Pico.
+
 Also, if you noticed, there are no diodes in this build, as I never seems to have any problem with any of my past build without diodes. But if you still incline, a reference for the use of diodes and keyboard matrix theory is included below
 
 4. Assembly
